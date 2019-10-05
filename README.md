@@ -18,4 +18,4 @@ Source : [https://openclassrooms.com/](https://openclassrooms.com/en/courses/160
 
 ## Balises
 - [Aide mémoire](https://htmlcheatsheet.com/), les balises de bases
-- [Structure de base]
+- [Structure de base](https://github.com/TahiriNadia/ElleCode-ACM/blob/master/exemple/struct.html)
