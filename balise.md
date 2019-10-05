@@ -53,3 +53,13 @@ Note :
 - Avant placer l'ancre, par exemple \<h2 id="mon_ancre">Titre\</h2>
 - Puis, \<a href="#mon_ancre">Aller vers l'ancre\</a>
 - Voir [__exemple__](https://github.com/TahiriNadia/ElleCode-ACM/blob/master/exemple/ancre.html)
+
+## Images
+Il existe un format adapté à chaque image
+Si on résume, voici quel format adopter en fonction de l'image que vous avez :
+- Une photo : utilisez un __JPEG__.
+- N'importe quel graphique avec peu de couleurs (moins de 256) : utilisez un __PNG 8 bits__ ou éventuellement un GIF.
+- N'importe quel graphique avec beaucoup de couleurs : utilisez un __PNG 24 bits__.
+- Une image animée : utilisez un __GIF__ animé.
+
+
