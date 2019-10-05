@@ -62,6 +62,11 @@ Si on résume, voici quel format adopter en fonction de l'image que vous avez :
 - N'importe quel graphique avec beaucoup de couleurs : utilisez un __PNG 24 bits__.
 - Une image animée : utilisez un __GIF__ animé.
 
+Note :
+- \<img src="..." alt="..." />
+- \<figure> et \<figcaption>
+
+
 >            <figure> 
 >                <img src="images/blocnotes.png" alt="Bloc-Notes" /> 
 >                <figcaption>Le logiciel Bloc-Notes\</figcaption> 
