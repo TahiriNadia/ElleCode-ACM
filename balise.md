@@ -73,4 +73,4 @@ Note :
 >            </figure> 
 
 <br>
-**Exercice du CV** voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree/master/exemple/exercice)
+Exercice du CV : voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree/master/exemple/exercice)
