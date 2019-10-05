@@ -72,5 +72,4 @@ Note :
 >                <figcaption>Le logiciel Bloc-Notes\</figcaption> 
 >            </figure> 
 
-<br>
-Exercice du CV : voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree/master/exemple/exercice)
+__Exercice du CV__ : voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree/master/exemple/exercice)
