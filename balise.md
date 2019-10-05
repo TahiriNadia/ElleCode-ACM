@@ -26,20 +26,20 @@
 - Les listes
 #### Liste non ordonnée
 - \<ul> \</ul> : pour une liste d'éléments sans notion d'ordre 
-        Exemple : 
-            <ul>
-                <li>Fraises</li>
-                <li>Framboises</li>
-                <li>Cerises</li>
-            </ul>
+        __Exemple__ : 
+>            <ul>
+>                <li>Fraises</li>
+>                <li>Framboises</li>
+>                <li>Cerises</li>
+>            </ul>
 
 Note :
-    * \<ul> \</ul>délimite toute la liste
-    * \<li> \</li>délimite un élément de la liste (une puce)
+- \<ul> \</ul>délimite toute la liste
+- \<li> \</li>délimite un élément de la liste (une puce)
     
 #### Liste ordonnée
 - Remplacer \<ul> \</ul> par \<ol> \</ol>
-        Exemple : 
+        __Exemple__ : 
 >            <ol>
 >                <li>Je me lève.</li>
 >                <li>Je mange et je bois.</li>
