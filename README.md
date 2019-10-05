@@ -39,4 +39,18 @@ Source : [https://openclassrooms.com/](https://openclassrooms.com/en/courses/160
     * \<em> \</em> : mettre en italique
     * \<strong>\<\strong> : mettre en gras
     * \<em> \<strong>\<\strong> \</em> : mettre en italique et en gras
+    * \<mark> \<\mark> : pour surligner texte
     
+- Les listes
+    * \<ul>\</ul> : pour une liste d'éléments sans notion d'ordre 
+        exemple : 
+        <ul>
+            <li>Fraises</li>
+            <li>Framboises</li>
+            <li>Cerises</li>
+        </ul>
+> \<ul><br>
+>    \<li>Fraises\</li><br>
+>    \<li>Framboises\</li><br>
+>    \<li>Cerises\</li><br>
+> \</ul><br>
