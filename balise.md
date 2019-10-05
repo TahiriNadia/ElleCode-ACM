@@ -75,7 +75,7 @@ Note :
 __Exercice du CV__ : voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree/master/exemple/exercice)
 
 ## Mise en forme du texte
-- Mettre le texte par exemple en rouge
+- Mettre le texte par exemple en rouge <br>
 \<p style="color:#FF0000";>Red paragraph text\</p>
 
 ## Tables
