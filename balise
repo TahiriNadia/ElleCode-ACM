@@ -24,15 +24,25 @@
     * \<mark> \<\mark> : pour surligner texte
     
 - Les listes
+#### Liste non ordonnée
     * \<ul>\</ul> : pour une liste d'éléments sans notion d'ordre 
-        exemple : 
-        <ul>
-            <li>Fraises</li>
-            <li>Framboises</li>
-            <li>Cerises</li>
-        </ul>
+        __Exemple__ : 
+&nbsp;&nbsp;<ul>
+&nbsp;&nbsp;&nbsp;&nbsp;<li>Fraises</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li>Framboises</li>
+&nbsp;&nbsp;&nbsp;&nbsp;<li>Cerises</li>
+&nbsp;&nbsp;</ul>
 > \<ul><br>
 >&nbsp;&nbsp;\<li>Fraises\</li><br>
 >&nbsp;&nbsp;\<li>Framboises\</li><br>
 >&nbsp;&nbsp;\<li>Cerises\</li><br>
 > \</ul><br>
+
+Note :
+    * \<ul>\</ul>délimite toute la liste
+    * \<li>\</li>délimite un élément de la liste (une puce)
+    
+#### Liste ordonnée
+    * Remplacer \<ul>\</ul> par \<ol>\</ol>
+    
+  
