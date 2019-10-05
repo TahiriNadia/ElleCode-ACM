@@ -77,11 +77,16 @@ __Exercice du CV__ : voir [ici](https://github.com/TahiriNadia/ElleCode-ACM/tree
 ## Mise en forme du texte
 - Mettre le texte par exemple en rouge <br>
 \<p style="color:#FF0000";>Red paragraph text\</p>
+- Aligner, centrer le texte <br>
+\<center> Ce texte sera mis au centre.<br>
+\<p>un paragraphe.\</p>\</center>
 
 ## Tables
 
 >            <TABLE BORDER>
 >                <TR><TD>ligne 1, colonne1</TD><TD>ligne1, colonne2</TD></TR>
 >                <TR><TD>ligne 2, colonne1</TD><TD>ligne 2, colonne2</TD></TR>
->                <TR><TD>ligne 3, colonne1</TD><TD>ligne 3, colonne2\</TD></TR>
+>                <TR><TD>ligne 3, colonne1</TD><TD>ligne 3, colonne2</TD></TR>
 >            </TABLE>
+
+
