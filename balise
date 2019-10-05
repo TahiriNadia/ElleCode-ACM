@@ -32,11 +32,6 @@
                 <li>Framboises</li>
                 <li>Cerises</li>
             </ul>
-> \<ul><br>
->&nbsp;&nbsp;\<li>Fraises\</li><br>
->&nbsp;&nbsp;\<li>Framboises\</li><br>
->&nbsp;&nbsp;\<li>Cerises\</li><br>
-> \</ul><br>
 
 Note :
     * \<ul>\</ul>délimite toute la liste
@@ -44,5 +39,10 @@ Note :
     
 #### Liste ordonnée
     * Remplacer \<ul>\</ul> par \<ol>\</ol>
-    
+        Exemple : 
+            <ol>
+                <li>Je me lève.</li>
+                <li>Je mange et je bois.</li>
+                <li>Je retourne me coucher.</li>
+            </ol>   
   
