@@ -8,3 +8,12 @@ Source : [https://openclassrooms.com/](https://openclassrooms.com/en/courses/160
      * __CSS__ : permet de mettre en forme la page (couleur, taille…)
 - Le __navigateur web__ est un programme qui permet d'afficher des sites web. Il lit les langages HTML et CSS pour savoir ce qu'il doit afficher.
 
+## Matériels
+- Éditeur de texte
+    * [Notepad++](https://notepad-plus-plus.org)
+    * [Sublime](https://www.sublimetext.com/)
+- Un navigateur web
+    * [chrome](https://www.google.ca/intl/fr/chrome/)
+    * [Explorer](https://www.microsoft.com/en-ca/download/internet-explorer.aspx)
+
+
