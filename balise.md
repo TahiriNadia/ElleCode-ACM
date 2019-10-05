@@ -25,7 +25,7 @@
     
 - Les listes
 #### Liste non ordonnée
-    * \<ul> \</ul> : pour une liste d'éléments sans notion d'ordre 
+- \<ul> \</ul> : pour une liste d'éléments sans notion d'ordre 
         Exemple : 
             <ul>
                 <li>Fraises</li>
@@ -38,11 +38,11 @@ Note :
     * \<li> \</li>délimite un élément de la liste (une puce)
     
 #### Liste ordonnée
-    * Remplacer \<ul> \</ul> par \<ol> \</ol>
+- Remplacer \<ul> \</ul> par \<ol> \</ol>
         Exemple : 
-            <ol>
-                <li>Je me lève.</li>
-                <li>Je mange et je bois.</li>
-                <li>Je retourne me coucher.</li>
-            </ol>   
+>            <ol>
+>                <li>Je me lève.</li>
+>                <li>Je mange et je bois.</li>
+>                <li>Je retourne me coucher.</li>
+>            </ol>   
   
