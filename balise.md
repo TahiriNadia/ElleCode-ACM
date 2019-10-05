@@ -4,28 +4,28 @@
 
 ### Quelques exemples
 - Les paragraphes 
-     * <p> </p>
+     * \<p> \</p>
 
 - Sauter une ligne
-     * <br />
+     * \<br />
 
 - Les titres : 
-    * <h1> </h1> :  signifie « titre très important ». En général, on s'en sert pour afficher le titre de la page au début de celle-ci.
-    * <h2> </h2> : signifie « titre important »
-    * <h3> </h3> : pareil, c'est un titre un peu moins important (on peut dire un « sous-titre » si vous voulez)
-    * <h4> </h4> : titre encore moins important
-    * <h5> </h5> : titre pas important
-    * <h6> </h6> : titre vraiment, mais alors là vraiment pas important du tout
+    * \<h1> \</h1> :  signifie « titre très important ». En général, on s'en sert pour afficher le titre de la page au début de celle-ci.
+    * \<h2> \</h2> : signifie « titre important »
+    * \<h3> \</h3> : pareil, c'est un titre un peu moins important (on peut dire un « sous-titre » si vous voulez)
+    * \<h4> \</h4> : titre encore moins important
+    * \<h5> \</h5> : titre pas important
+    * \<h6> \</h6> : titre vraiment, mais alors là vraiment pas important du tout
 
 - La mise en valeur
-    * <em> </em> : mettre en italique
-    * <strong> <\strong> : mettre en gras
-    * <em> <strong><\strong> </em> : mettre en italique et en gras
-    * <mark> <\mark> : pour surligner texte
+    * \<em> \</em> : mettre en italique
+    * \<strong> \<\strong> : mettre en gras
+    * \<em> \<strong>\<\strong> \</em> : mettre en italique et en gras
+    * \<mark> \<\mark> : pour surligner texte
     
 - Les listes
 #### Liste non ordonnée
-    * <ul> </ul> : pour une liste d'éléments sans notion d'ordre 
+    * \<ul> \</ul> : pour une liste d'éléments sans notion d'ordre 
         Exemple : 
             <ul>
                 <li>Fraises</li>
@@ -34,11 +34,11 @@
             </ul>
 
 Note :
-    * <ul> </ul>délimite toute la liste
-    * <li> </li>délimite un élément de la liste (une puce)
+    * \<ul> \</ul>délimite toute la liste
+    * \<li> \</li>délimite un élément de la liste (une puce)
     
 #### Liste ordonnée
-    * Remplacer <ul> </ul> par <ol> </ol>
+    * Remplacer \<ul> \</ul> par \<ol> \</ol>
         Exemple : 
             <ol>
                 <li>Je me lève.</li>
