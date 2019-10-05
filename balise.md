@@ -7,7 +7,7 @@
 - \<p> \</p>
 
 ### Sauter une ligne
-     * \<br />
+- \<br />
 
 ### Les titres : 
 - \<h1> \</h1> :  signifie « titre très important ». En général, on s'en sert pour afficher le titre de la page au début de celle-ci.
@@ -52,4 +52,5 @@ Note :
 ### Un lien vers une ancre
 - Avant placer l'ancre, par exemple \<h2 id="mon_ancre">Titre\</h2>
 - Puis, \<a href="#mon_ancre">Aller vers l'ancre\</a>
-- Voir [__exemple__]()
+- Voir [__exemple__](https://github.com/TahiriNadia/ElleCode-ACM/blob/master/exemple/ancre.html)
+
