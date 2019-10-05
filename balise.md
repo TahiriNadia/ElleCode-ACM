@@ -47,7 +47,7 @@ Note :
 >            </ol>   
   
 ### Un lien vers un autre site ou sur le site
-- \<a href="https://openclassrooms.com">OpenClassrooms\</a>
+- \<a href=\"https://openclassrooms.com\">OpenClassrooms\</a>
 
 ### Un lien vers une ancre
 - Avant placer l'ancre, par exemple \<h2 id="mon_ancre">Titre\</h2>
