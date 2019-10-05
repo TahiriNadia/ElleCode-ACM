@@ -53,4 +53,3 @@ Note :
 - Avant placer l'ancre, par exemple \<h2 id="mon_ancre">Titre\</h2>
 - Puis, \<a href="#mon_ancre">Aller vers l'ancre\</a>
 - Voir [__exemple__](https://github.com/TahiriNadia/ElleCode-ACM/blob/master/exemple/ancre.html)
-
