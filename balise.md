@@ -71,3 +71,5 @@ Note :
 >                <img src="images/blocnotes.png" alt="Bloc-Notes" /> 
 >                <figcaption>Le logiciel Bloc-Notes\</figcaption> 
 >            </figure> 
+
+Exercice du CV
