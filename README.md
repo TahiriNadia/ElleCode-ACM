@@ -36,3 +36,7 @@ Source : [https://openclassrooms.com/](https://openclassrooms.com/en/courses/160
     * \<h6> \</h6> : titre vraiment, mais alors là vraiment pas important du tout
 
 - La mise en valeur
+    * \<em> \</em> : mettre en italique
+    * \<strong>\<\strong> : mettre en gras
+    * \<em> \<strong>\<\strong> \</em> : mettre en italique et en gras
+    
