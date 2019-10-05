@@ -55,14 +55,14 @@ Note :
 - Voir [__exemple__](https://github.com/TahiriNadia/ElleCode-ACM/blob/master/exemple/ancre.html)
 
 ## Images
-Il existe un format adapté à chaque image
+Il existe un format adapté à chaque image <br>
 Si on résume, voici quel format adopter en fonction de l'image que vous avez :
 - Une photo : utilisez un __JPEG__.
 - N'importe quel graphique avec peu de couleurs (moins de 256) : utilisez un __PNG 8 bits__ ou éventuellement un GIF.
 - N'importe quel graphique avec beaucoup de couleurs : utilisez un __PNG 24 bits__.
 - Une image animée : utilisez un __GIF__ animé.
 
-> <figure>
->    <img src="images/blocnotes.png" alt="Bloc-Notes" />
->    <figcaption>Le logiciel Bloc-Notes</figcaption>
-> </figure>
+> \<figure>
+>    \<img src="images/blocnotes.png" alt="Bloc-Notes" />
+>    \<figcaption>Le logiciel Bloc-Notes\</figcaption>
+> \</figure>
