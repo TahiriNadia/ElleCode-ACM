@@ -16,4 +16,6 @@ Source : [https://openclassrooms.com/](https://openclassrooms.com/en/courses/160
     * [chrome](https://www.google.ca/intl/fr/chrome/)
     * [Explorer](https://www.microsoft.com/en-ca/download/internet-explorer.aspx)
 
-
+## Balises
+- [Aide mémoire](https://htmlcheatsheet.com/), les balises de bases
+- [Structure de base]
